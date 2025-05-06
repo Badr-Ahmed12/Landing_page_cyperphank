@@ -1,12 +1,10 @@
-import './Header.js';
-import './Hero.js';
-import './aboutUs.js';
-import './Services.js';
-import './portofolio.js';
-import './Testimonials.js';
-import './Blog.js';
-import './GetInTouch.js';
-import './Footer.js';
-import './ScrollToTop.js';
-
+import './Header';
+import './Hero';
+import './aboutUs';
+import './Services';
+import './portofolio';
+import './testimonials';
+import './blog';
+import './Footer';
+import './ScrollToTop';
 
